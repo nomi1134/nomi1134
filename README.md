@@ -1,7 +1,3 @@
-- 👋 Hi, I’m M.Nouman Minhas
-- 👀 I’m interested in Game developement but
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on React Native
 - 📫 contact through mail -> mnomyminhas@gmail.com
 
 <!---
